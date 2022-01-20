@@ -1,0 +1,22 @@
+.logical-block-model {
+  padding-inline-end: 50px;
+
+  margin-block-start: 200px;
+
+  border-inline-start: 10px solid blue;
+}
+
+.normal-block-model {
+  padding-left: 50px;
+
+  margin-top: 200px;
+
+  border-right: 10px solid blue;
+}
+
+.en {
+  direction: ltr;
+}
+.he {
+  direction: rtl;
+}

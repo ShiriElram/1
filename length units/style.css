@@ -1,0 +1,35 @@
+body > div:nth-child(even) {
+  background-color: lightblue;
+}
+body > div:nth-child(odd) {
+  background-color: lightcoral;
+}
+
+body > div {
+  margin-block: 20px;
+}
+
+.vw {
+  width: 50vw;
+}
+
+.vh {
+  height: 20vh;
+}
+
+.em {
+  font-size: 2em;
+}
+
+.rem {
+  font-size: 2rem;
+}
+
+.percent {
+  width: 50%;
+}
+/* .responsive {
+  min-height: 50px;
+  height: 200px;
+  max-height: 800px;
+} */
